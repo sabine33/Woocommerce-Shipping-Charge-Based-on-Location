@@ -1,5 +1,6 @@
-# woocommerce_sms_on_order
-Woocommerce SMS on order using aakash SMS API
+# Woocommerce SMS on order
+Woocommerce custom charge based on Locations
 
-Add this plugin to integrate SMS on order feature in your woocommerce application.
-Currently I am using Aakash SMS, feel free to use other platforms.
+This plugin helps you to have custom charge based on location. Currently the location and charge is defined here in code. I'll add an option to add charges for UI later.
+Feel free to make any customizations.
+Adding Custom Dropdown for cities=>Detecting changes in city => Custom flat rate based on location
